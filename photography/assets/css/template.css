@@ -20,7 +20,7 @@ body {
     line-height: 1.85;
     font-weight: 400;
     font-size: 16px;
-    color: #f7f9f9;
+    color: black;
     -ms-overflow-style: scrollbar;
     overflow-x: hidden;
     text-rendering: optimizeLegibility;
@@ -216,6 +216,10 @@ blockquote {
     letter-spacing: 1px;
     font-size: 26px;
     color: #303133;
+}
+
+p {
+  color: white;
 }
 
 blockquote p {
