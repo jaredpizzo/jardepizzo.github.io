@@ -127,27 +127,32 @@ h5.font-serif,
 h6.font-serif,
 .font-serif h6 {
     margin: 0 0 14px;
+    color: #f7f9f9;
 }
 
 h1 {
     font-size: 34px;
+    color: #f7f9f9;
 }
 
 h1.font-serif,
 .font-serif h1 {
     font-size: 52px;
+    color: #f7f9f9;
 }
 
 h1.font-serif.mh-large,
 .font-serif h1.mh-large {
     letter-spacing: 4px;
     font-size: 72px;
+    color: #f7f9f9;
 }
 
 h1.font-serif.mh-medium,
 .font-serif h1.mh-medium {
     letter-spacing: 2px;
     font-size: 64px;
+    color: #f7f9f9;
 }
 
 h2 {
