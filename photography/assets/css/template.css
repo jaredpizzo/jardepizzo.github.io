@@ -20,7 +20,7 @@ body {
     line-height: 1.85;
     font-weight: 400;
     font-size: 16px;
-    color: #888;
+    color: #f7f9f9;
     -ms-overflow-style: scrollbar;
     overflow-x: hidden;
     text-rendering: optimizeLegibility;
@@ -1303,7 +1303,7 @@ pre {
     text-transform: uppercase;
     letter-spacing: 1.5px;
     font-size: 11px;
-    color: #303133;
+    color: #f7f9f9;
 }
 
 .social-list > li > a:hover,
